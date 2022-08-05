@@ -9,8 +9,8 @@
 
 ### Techstack
 
-* [React.js](https://reactjs.org/) - api is written in Koa
-* [Next.js](https://nextjs.org/) - website is created in Next
+* [React.js](https://reactjs.org/) - Nextjs wrapped into React
+* [Next.js](https://nextjs.org/) - Created with Create Next App
 * [TailwindCSS](https://tailwindcss.com/) - Tailwind is used for styling
 
 ### Other Notible Tools
