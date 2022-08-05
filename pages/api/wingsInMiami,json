@@ -1,0 +1,2194 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "62e88da0dc9bb2258cb98688"
+  },
+  "response": {
+    "venues": [
+      {
+        "id": "4f46cccae4b0e13227f8a09a",
+        "name": "House of Wings",
+        "contact": {
+          "phone": "3053716556",
+          "formattedPhone": "(305) 371-6556",
+          "twitter": "houseofwings305"
+        },
+        "location": {
+          "address": "1039 NW 3rd Avenue",
+          "lat": 25.784628076278914,
+          "lng": -80.19972617433544,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.784628076278914,
+              "lng": -80.19972617433544
+            }
+          ],
+          "postalCode": "33136",
+          "cc": "US",
+          "city": "Overtown",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1039 NW 3rd Avenue",
+            "Overtown, FL 33136",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 4,
+          "usersCount": 115,
+          "checkinsCount": 181
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407776",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4c3a6d6693db0f47b2342592",
+        "name": "Miami Subs",
+        "contact": {
+          "phone": "9548936671",
+          "formattedPhone": "(954) 893-6671",
+          "twitter": "miamigrill",
+          "facebook": "553890208112352",
+          "facebookUsername": "MiamiGrillOfficial",
+          "facebookName": "Miami Grill"
+        },
+        "location": {
+          "address": "1955 S State Road 7",
+          "lat": 25.993256902659624,
+          "lng": -80.20653074601535,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.993256902659624,
+              "lng": -80.20653074601535
+            }
+          ],
+          "postalCode": "33023",
+          "cc": "US",
+          "city": "West Park",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1955 S State Road 7",
+            "West Park, FL 33023",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 3,
+          "usersCount": 167,
+          "checkinsCount": 276
+        },
+        "url": "https://www.mymiamigrill.com/?y_source=1_MTUyNTA0MjMtNDQwLWxvY2F0aW9uLndlYnNpdGU=",
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://www.mymiamigrill.com/menu/?y_source=1_MTUyNTA0MjMtNDQwLWxvY2F0aW9uLm1lbnVfdXJs",
+          "mobileUrl": "https://www.mymiamigrill.com/menu/?y_source=1_MTUyNTA0MjMtNDQwLWxvY2F0aW9uLm1lbnVfdXJs",
+          "externalUrl": "https://www.mymiamigrill.com/menu/?y_source=1_MTUyNTA0MjMtNDQwLWxvY2F0aW9uLm1lbnVfdXJs"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "5568f746a7c8a9cf8ec4e24b"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4c5212cf99ecc9b6edf84e5a",
+        "name": "Wingstop",
+        "contact": {
+          "phone": "3057545455",
+          "formattedPhone": "(305) 754-5455",
+          "twitter": "wingstop",
+          "instagram": "wingstop",
+          "facebook": "84579814673",
+          "facebookUsername": "Wingstop",
+          "facebookName": "Wingstop"
+        },
+        "location": {
+          "address": "651 NW 62nd St",
+          "lat": 25.832494787750765,
+          "lng": -80.20791053055608,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.832494787750765,
+              "lng": -80.20791053055608
+            },
+            {
+              "label": "entrance",
+              "lat": 25.832612,
+              "lng": -80.207997
+            }
+          ],
+          "postalCode": "33150",
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "651 NW 62nd St",
+            "Miami, FL 33150",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 9,
+          "usersCount": 253,
+          "checkinsCount": 480
+        },
+        "url": "http://order.wingstop.com/menu/wingstop-389-miami-fl-33150",
+        "delivery": {
+          "id": "2579365",
+          "url": "https://www.grubhub.com/restaurant/rebel-wings-798-nw-62nd-st-miami/2579365?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=2579365",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "389",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "556d12d9aceaff43eb090ce2"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4ab26ba7f964a520246b20e3",
+        "name": "Hooters",
+        "contact": {
+          "phone": "3058515964",
+          "formattedPhone": "(305) 851-5964",
+          "twitter": "hootersflorida",
+          "facebook": "116081388415451",
+          "facebookUsername": "HootersDoral",
+          "facebookName": "Hooters"
+        },
+        "location": {
+          "address": "8695 NW 13th Ter",
+          "lat": 25.785522,
+          "lng": -80.336233,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.785522,
+              "lng": -80.336233
+            },
+            {
+              "label": "entrance",
+              "lat": 25.785443,
+              "lng": -80.336248
+            }
+          ],
+          "postalCode": "33126",
+          "cc": "US",
+          "city": "Doral",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "8695 NW 13th Ter",
+            "Doral, FL 33126",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 70,
+          "usersCount": 4035,
+          "checkinsCount": 8502
+        },
+        "url": "https://t.co/XeiZR5U3kr",
+        "hasMenu": true,
+        "delivery": {
+          "id": "3048953",
+          "url": "https://www.grubhub.com/restaurant/hooters---doral-8695-nw-13th-terrace-miami/3048953?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=3048953",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://hootersflorida.com/food/",
+          "mobileUrl": "http://hootersflorida.com/food/",
+          "externalUrl": "http://hootersflorida.com/food/"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "556a48c3a7c8957d73d66806"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4a761758f964a52032e21fe3",
+        "name": "Flanigan's Seafood Bar & Grill",
+        "contact": {
+          "phone": "3058670099",
+          "formattedPhone": "(305) 867-0099"
+        },
+        "location": {
+          "address": "9516 Harding Ave",
+          "lat": 25.885583690072803,
+          "lng": -80.1235864537602,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.885583690072803,
+              "lng": -80.1235864537602
+            },
+            {
+              "label": "entrance",
+              "lat": 25.885667,
+              "lng": -80.123695
+            }
+          ],
+          "postalCode": "33154",
+          "cc": "US",
+          "city": "Surfside",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "9516 Harding Ave",
+            "Surfside, FL 33154",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ce941735",
+            "name": "Seafood Restaurant",
+            "pluralName": "Seafood Restaurants",
+            "shortName": "Seafood",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 85,
+          "usersCount": 2349,
+          "checkinsCount": 4969
+        },
+        "url": "http://www.flanigans.net/",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4baa5f65f964a520fa633ae3",
+        "name": "Hooters",
+        "contact": {
+          "phone": "9546785590",
+          "formattedPhone": "(954) 678-5590",
+          "twitter": "hooters",
+          "facebook": "109637099074052",
+          "facebookUsername": "HootersPembrokePines",
+          "facebookName": "Hooters"
+        },
+        "location": {
+          "address": "7990 Pines Blvd",
+          "crossStreet": "Pines Blvd",
+          "lat": 26.008670003904186,
+          "lng": -80.24726568956658,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.008670003904186,
+              "lng": -80.24726568956658
+            },
+            {
+              "label": "entrance",
+              "lat": 26.008859,
+              "lng": -80.247341
+            }
+          ],
+          "postalCode": "33024",
+          "cc": "US",
+          "city": "Pembroke Pines",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "7990 Pines Blvd (Pines Blvd)",
+            "Pembroke Pines, FL 33024",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14e941735",
+            "name": "American Restaurant",
+            "pluralName": "American Restaurants",
+            "shortName": "American",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 35,
+          "usersCount": 2437,
+          "checkinsCount": 5343
+        },
+        "url": "https://t.co/XeiZR5U3kr",
+        "hasMenu": true,
+        "delivery": {
+          "id": "3050186",
+          "url": "https://www.grubhub.com/restaurant/hooters---pembroke-pines-7990-pines-blvd-pembroke-pines/3050186?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=3050186",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/hooters/4baa5f65f964a520fa633ae3/menu",
+          "mobileUrl": "https://foursquare.com/v/4baa5f65f964a520fa633ae3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "556a48c3a7c8957d73d66806"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b898c3ff964a520cf4032e3",
+        "name": "Sports Grill Kendall",
+        "contact": {
+          "phone": "3055953335",
+          "formattedPhone": "(305) 595-3335",
+          "twitter": "SportsGrill"
+        },
+        "location": {
+          "address": "9090 SW 97th Ave",
+          "lat": 25.685569317799544,
+          "lng": -80.35143879690939,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.685569317799544,
+              "lng": -80.35143879690939
+            }
+          ],
+          "postalCode": "33176",
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "9090 SW 97th Ave",
+            "Miami, FL 33176",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 49,
+          "usersCount": 1437,
+          "checkinsCount": 3849
+        },
+        "url": "http://www.sportsgrillmiami.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/sports-grill-kendall/4b898c3ff964a520cf4032e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b898c3ff964a520cf4032e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "524cbb1211d2b1f3682d7423",
+        "name": "Wingstop",
+        "contact": {
+          "phone": "7862741511",
+          "formattedPhone": "(786) 274-1511",
+          "twitter": "wingstop",
+          "instagram": "wingstop",
+          "facebook": "84579814673",
+          "facebookUsername": "Wingstop",
+          "facebookName": "Wingstop"
+        },
+        "location": {
+          "address": "1452 NE 163rd St",
+          "lat": 25.925432329541383,
+          "lng": -80.17083377733691,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.925432329541383,
+              "lng": -80.17083377733691
+            }
+          ],
+          "postalCode": "33162",
+          "cc": "US",
+          "city": "North Miami Beach",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1452 NE 163rd St",
+            "North Miami Beach, FL 33162",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 4,
+          "usersCount": 126,
+          "checkinsCount": 503
+        },
+        "url": "http://order.wingstop.com/menu/wingstop-687-north-miami-beach-fl-33162",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "687",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "556d12d9aceaff43eb090ce2"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b4e04f7f964a5205ede26e3",
+        "name": "Sports Grill",
+        "contact": {
+          "phone": "3054858845",
+          "formattedPhone": "(305) 485-8845"
+        },
+        "location": {
+          "address": "11481 SW 40th St",
+          "lat": 25.734205452285664,
+          "lng": -80.38039702041921,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.734205452285664,
+              "lng": -80.38039702041921
+            }
+          ],
+          "postalCode": "33165",
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "11481 SW 40th St",
+            "Miami, FL 33165",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 31,
+          "usersCount": 1372,
+          "checkinsCount": 3491
+        },
+        "url": "http://sportsgrillmiami.com",
+        "hasMenu": true,
+        "delivery": {
+          "id": "2180538",
+          "url": "https://www.grubhub.com/restaurant/sports-grill-bird-road-11481-sw-40th-st-miami/2180538?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=2180538",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/sports-grill/4b4e04f7f964a5205ede26e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b4e04f7f964a5205ede26e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4bf6ea564a67c92853ab22cf",
+        "name": "Rickey's Restaurant & Lounge",
+        "contact": {
+          "phone": "9549661429",
+          "formattedPhone": "(954) 966-1429"
+        },
+        "location": {
+          "address": "4799 Hollywood Blvd",
+          "crossStreet": "48th Ave",
+          "lat": 26.01061010071878,
+          "lng": -80.19154075178913,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.01061010071878,
+              "lng": -80.19154075178913
+            },
+            {
+              "label": "entrance",
+              "lat": 26.010575,
+              "lng": -80.191489
+            }
+          ],
+          "postalCode": "33021",
+          "cc": "US",
+          "city": "Hollywood",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "4799 Hollywood Blvd (48th Ave)",
+            "Hollywood, FL 33021",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 21,
+          "usersCount": 565,
+          "checkinsCount": 1434
+        },
+        "url": "http://www.rickeysrestaurant.net/",
+        "delivery": {
+          "id": "1529733",
+          "url": "https://www.grubhub.com/restaurant/rickeys-restaurant--lounge-4799-hollywood-boulevard-hollywood/1529733?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1529733",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "53c067b0498eecb3e87c4b0e",
+        "name": "Buffalo Wild Wings",
+        "contact": {
+          "phone": "9544991439",
+          "formattedPhone": "(954) 499-1439",
+          "twitter": "bwwings",
+          "facebook": "322933827861688",
+          "facebookUsername": "BWWPembrokePinesFL",
+          "facebookName": "Buffalo Wild Wings"
+        },
+        "location": {
+          "address": "11555 Pines Blvd",
+          "lat": 26.008402856777593,
+          "lng": -80.30384659767151,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.008402856777593,
+              "lng": -80.30384659767151
+            }
+          ],
+          "postalCode": "33026",
+          "cc": "US",
+          "city": "Pembroke Pines",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "11555 Pines Blvd",
+            "Pembroke Pines, FL 33026",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 24,
+          "usersCount": 584,
+          "checkinsCount": 1305
+        },
+        "url": "https://www.buffalowildwings.com/en/locations/detail/497/",
+        "delivery": {
+          "id": "3106220",
+          "url": "https://www.grubhub.com/restaurant/buffalo-wild-wings-11555-pines-blvd-pembroke-pines/3106220?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=3106220",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://www.buffalowildwings.com/en/food/",
+          "mobileUrl": "https://www.buffalowildwings.com/en/food/",
+          "externalUrl": "https://www.buffalowildwings.com/en/food/"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "556d1d36aceaff43eb0a9e66"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b772c59f964a520ba842ee3",
+        "name": "Miami Subs Grill",
+        "contact": {
+          "phone": "9549265460",
+          "formattedPhone": "(954) 926-5460",
+          "twitter": "miamigrill",
+          "facebook": "258457171522215",
+          "facebookName": "Miami Subs"
+        },
+        "location": {
+          "address": "2749 Hollywood Blvd",
+          "crossStreet": "28th Ave",
+          "lat": 26.011391142891828,
+          "lng": -80.16310784049278,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.011391142891828,
+              "lng": -80.16310784049278
+            }
+          ],
+          "postalCode": "33020",
+          "cc": "US",
+          "city": "Hollywood",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "2749 Hollywood Blvd (28th Ave)",
+            "Hollywood, FL 33020",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 6,
+          "usersCount": 334,
+          "checkinsCount": 640
+        },
+        "url": "https://www.mymiamigrill.com/?y_source=1_MTUyNTA0MjgtNDQwLWxvY2F0aW9uLndlYnNpdGU=",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/miami-subs-grill/4b772c59f964a520ba842ee3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b772c59f964a520ba842ee3/device_menu",
+          "externalUrl": "https://www.mymiamigrill.com/menu/?y_source=1_MTUyNTA0MjgtNDQwLWxvY2F0aW9uLm1lbnVfdXJs"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "5568f746a7c8a9cf8ec4e24b"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4f85fea07bebf1ddab69b37b",
+        "name": "Wingstop",
+        "contact": {
+          "phone": "3053920020",
+          "formattedPhone": "(305) 392-0020",
+          "twitter": "wingstop",
+          "instagram": "wingstop",
+          "facebook": "84579814673",
+          "facebookUsername": "Wingstop",
+          "facebookName": "Wingstop"
+        },
+        "location": {
+          "address": "6408 NW 186th St",
+          "lat": 25.941925024163925,
+          "lng": -80.30440148687133,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.941925024163925,
+              "lng": -80.30440148687133
+            }
+          ],
+          "postalCode": "33015",
+          "cc": "US",
+          "city": "Hialeah",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "6408 NW 186th St",
+            "Hialeah, FL 33015",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 6,
+          "usersCount": 167,
+          "checkinsCount": 331
+        },
+        "url": "http://order.wingstop.com/menu/wingstop-581-hialeah-fl-33015",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "581",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "556d12d9aceaff43eb090ce2"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b75ef96f964a52044302ee3",
+        "name": "Moby's",
+        "contact": {
+          "twitter": "mobys"
+        },
+        "location": {
+          "address": "3356 S University Dr",
+          "crossStreet": "Miramar Pkwy",
+          "lat": 25.97881795779439,
+          "lng": -80.24735590820752,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.97881795779439,
+              "lng": -80.24735590820752
+            }
+          ],
+          "postalCode": "33025",
+          "cc": "US",
+          "city": "Miramar",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "3356 S University Dr (Miramar Pkwy)",
+            "Miramar, FL 33025",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 2,
+          "usersCount": 94,
+          "checkinsCount": 174
+        },
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/mobys/4b75ef96f964a52044302ee3/menu",
+          "mobileUrl": "https://foursquare.com/v/4b75ef96f964a52044302ee3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4cdf2a0141ed224b61bcdd3c",
+        "name": "Gridiron Bar & Grill",
+        "contact": {
+          "phone": "3053828116",
+          "formattedPhone": "(305) 382-8116"
+        },
+        "location": {
+          "address": "14955 SW 88th St",
+          "lat": 25.685461044311523,
+          "lng": -80.43498229980469,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.685461044311523,
+              "lng": -80.43498229980469
+            }
+          ],
+          "postalCode": "33196",
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "14955 SW 88th St",
+            "Miami, FL 33196",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 1,
+          "usersCount": 23,
+          "checkinsCount": 45
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "53894964498e1819184ed57e",
+        "name": "Snappers Fish & Chicken",
+        "contact": {},
+        "location": {
+          "crossStreet": "67 Nw 7th Ave",
+          "lat": 25.836138586897576,
+          "lng": -80.20889938752754,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.836138586897576,
+              "lng": -80.20889938752754
+            },
+            {
+              "label": "entrance",
+              "lat": 25.836168,
+              "lng": -80.208857
+            }
+          ],
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "67 Nw 7th Ave",
+            "Miami, FL",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 3,
+          "usersCount": 33,
+          "checkinsCount": 121
+        },
+        "delivery": {
+          "id": "1193103",
+          "url": "https://www.grubhub.com/restaurant/snappers-fish--chicken-6700-nw-7th-ave-miami/1193103?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=1193103",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "5a06383a4a7aae26068f4101",
+        "name": "Winghouse",
+        "contact": {},
+        "location": {
+          "address": "4599 S University Dr",
+          "lat": 26.064186,
+          "lng": -80.253822,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.064186,
+              "lng": -80.253822
+            },
+            {
+              "label": "entrance",
+              "lat": 26.064239,
+              "lng": -80.254015
+            }
+          ],
+          "postalCode": "33328",
+          "cc": "US",
+          "city": "Davie",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "4599 S University Dr",
+            "Davie, FL 33328",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 1,
+          "usersCount": 58,
+          "checkinsCount": 116
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4f289d63e4b0eb70d487b4dc",
+        "name": "Upperdeck",
+        "contact": {},
+        "location": {
+          "lat": 25.939197908348582,
+          "lng": -80.18779802907397,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.939197908348582,
+              "lng": -80.18779802907397
+            }
+          ],
+          "postalCode": "33009",
+          "cc": "US",
+          "city": "Hallandale",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "Hallandale, FL 33009",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 17,
+          "checkinsCount": 24
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e7bcbfbb8f7369cee0a8938",
+        "name": "Sports Grill South Miami",
+        "contact": {
+          "phone": "3056680396",
+          "formattedPhone": "(305) 668-0396",
+          "facebook": "139954546043349",
+          "facebookUsername": "SportsGrill",
+          "facebookName": "Sports Grill"
+        },
+        "location": {
+          "address": "1559 Sunset Dr",
+          "lat": 25.704708813144514,
+          "lng": -80.2844539395164,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.704708813144514,
+              "lng": -80.2844539395164
+            }
+          ],
+          "postalCode": "33143",
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1559 Sunset Dr",
+            "Miami, FL 33143",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 44,
+          "usersCount": 1590,
+          "checkinsCount": 4367
+        },
+        "url": "http://sportsgrillmiami.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/sports-grill-south-miami/4e7bcbfbb8f7369cee0a8938/menu",
+          "mobileUrl": "https://foursquare.com/v/4e7bcbfbb8f7369cee0a8938/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "556e4daa498ec74988f75219",
+        "name": "Hole In The Wall",
+        "contact": {},
+        "location": {
+          "address": "8002 SW 81st Dr",
+          "lat": 25.693759330408312,
+          "lng": -80.32382763775027,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.693759330408312,
+              "lng": -80.32382763775027
+            }
+          ],
+          "postalCode": "33143",
+          "cc": "US",
+          "neighborhood": "Kings Creek",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "8002 SW 81st Dr",
+            "Miami, FL 33143",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d116941735",
+            "name": "Bar",
+            "pluralName": "Bars",
+            "shortName": "Bar",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 3,
+          "usersCount": 89,
+          "checkinsCount": 1258
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "533b561f498e80aa928b3dbe",
+        "name": "La Granja",
+        "contact": {
+          "phone": "7869165914",
+          "formattedPhone": "(786) 916-5914",
+          "twitter": "lagranja_nmb2"
+        },
+        "location": {
+          "address": "105 NE 167th St",
+          "crossStreet": "167th St",
+          "lat": 25.92846,
+          "lng": -80.19813,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.92846,
+              "lng": -80.19813
+            }
+          ],
+          "postalCode": "33162",
+          "cc": "US",
+          "city": "North Miami Beach",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "105 NE 167th St (167th St)",
+            "North Miami Beach, FL 33162",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4eb1bfa43b7b52c0e1adc2e8",
+            "name": "Peruvian Restaurant",
+            "pluralName": "Peruvian Restaurants",
+            "shortName": "Peruvian",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/peruvian_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 4,
+          "usersCount": 72,
+          "checkinsCount": 120
+        },
+        "url": "http://www.lagranjarestaurants.com",
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://www.lagranjarestaurants.com/menu.php",
+          "mobileUrl": "http://www.lagranjarestaurants.com/menu.php",
+          "externalUrl": "http://www.lagranjarestaurants.com/menu.php"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "102542557"
+        },
+        "storeId": "",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4b9d627bf964a520a7a836e3",
+        "name": "Uncle Al's",
+        "contact": {
+          "phone": "9544341630",
+          "formattedPhone": "(954) 434-1630"
+        },
+        "location": {
+          "address": "8200 Griffin Rd",
+          "lat": 26.064010182980727,
+          "lng": -80.25650318074015,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.064010182980727,
+              "lng": -80.25650318074015
+            },
+            {
+              "label": "entrance",
+              "lat": 26.064007,
+              "lng": -80.257561
+            }
+          ],
+          "postalCode": "33328",
+          "cc": "US",
+          "city": "Davie",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "8200 Griffin Rd",
+            "Davie, FL 33328",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 21,
+          "usersCount": 442,
+          "checkinsCount": 1044
+        },
+        "url": "http://unclealsdavie.com",
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "476baf70f964a520fc4c1fe3",
+        "name": "Tarks Of Dania Beach",
+        "contact": {
+          "phone": "9549258275",
+          "formattedPhone": "(954) 925-8275",
+          "twitter": "tarksdania",
+          "instagram": "tarksdania"
+        },
+        "location": {
+          "address": "1317 South Federal Hwy",
+          "crossStreet": "2 blocks north of Sheridan St. on Federal Hwy.",
+          "lat": 26.035596240106003,
+          "lng": -80.14315770513669,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.035596240106003,
+              "lng": -80.14315770513669
+            }
+          ],
+          "postalCode": "33004",
+          "cc": "US",
+          "city": "Dania Beach",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1317 South Federal Hwy (2 blocks north of Sheridan St. on Federal Hwy.)",
+            "Dania Beach, FL 33004",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ce941735",
+            "name": "Seafood Restaurant",
+            "pluralName": "Seafood Restaurants",
+            "shortName": "Seafood",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 74,
+          "usersCount": 956,
+          "checkinsCount": 2750
+        },
+        "url": "https://tarks.business.site",
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "http://www.facebook.com/tarksofdaniabeach",
+          "mobileUrl": "http://www.facebook.com/tarksofdaniabeach",
+          "externalUrl": "http://www.facebook.com/tarksofdaniabeach"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "venuePage": {
+          "id": "37695118"
+        },
+        "storeId": "tarks",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4bc855b415a7ef3bf3d57ada",
+        "name": "Quickies Burgers and Wings of Hollywood",
+        "contact": {
+          "phone": "9549819464",
+          "formattedPhone": "(954) 981-9464",
+          "twitter": "quickiesburgers"
+        },
+        "location": {
+          "address": "1000 S State Road 7",
+          "crossStreet": "441 & Dewey St.",
+          "lat": 26.001631832165916,
+          "lng": -80.20758479175706,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 26.001631832165916,
+              "lng": -80.20758479175706
+            }
+          ],
+          "postalCode": "33023",
+          "cc": "US",
+          "city": "Hollywood",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "1000 S State Road 7 (441 & Dewey St.)",
+            "Hollywood, FL 33023",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16c941735",
+            "name": "Burger Joint",
+            "pluralName": "Burger Joints",
+            "shortName": "Burgers",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 10,
+          "usersCount": 264,
+          "checkinsCount": 528
+        },
+        "hasMenu": true,
+        "delivery": {
+          "id": "786136",
+          "url": "https://www.grubhub.com/restaurant/quickies-burgers-and-wings-1000-s-state-rd-7-hollywood/786136?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=786136",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/quickies-burgers-and-wings-of-hollywood/4bc855b415a7ef3bf3d57ada/menu",
+          "mobileUrl": "https://foursquare.com/v/4bc855b415a7ef3bf3d57ada/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "505c7d36e4b0fae5e860397b",
+        "name": "Sports Grill",
+        "contact": {
+          "phone": "3059444552",
+          "formattedPhone": "(305) 944-4552"
+        },
+        "location": {
+          "address": "2995 NE 163rd Street",
+          "lat": 25.926811503919613,
+          "lng": -80.14050867188078,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.926811503919613,
+              "lng": -80.14050867188078
+            }
+          ],
+          "cc": "US",
+          "city": "Miami Beach",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "2995 NE 163rd Street",
+            "Miami Beach, FL",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 10,
+          "usersCount": 262,
+          "checkinsCount": 500
+        },
+        "url": "http://sportsgrillmiami.com",
+        "hasMenu": true,
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/sports-grill/505c7d36e4b0fae5e860397b/menu",
+          "mobileUrl": "https://foursquare.com/v/505c7d36e4b0fae5e860397b/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4ab2b4ddf964a520f36b20e3",
+        "name": "Anthony's Coal Fired Pizza",
+        "contact": {
+          "phone": "3058302625",
+          "formattedPhone": "(305) 830-2625",
+          "twitter": "anthonyscfpizza",
+          "facebook": "39106636277",
+          "facebookUsername": "anthonyscoalfiredpizza",
+          "facebookName": "Anthony's Coal Fired Pizza & Wings"
+        },
+        "location": {
+          "address": "17901 Biscayne Blvd",
+          "lat": 25.94150234909083,
+          "lng": -80.14800149078154,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.94150234909083,
+              "lng": -80.14800149078154
+            }
+          ],
+          "postalCode": "33160",
+          "cc": "US",
+          "city": "Aventura",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "17901 Biscayne Blvd",
+            "Aventura, FL 33160",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1ca941735",
+            "name": "Pizza Place",
+            "pluralName": "Pizza Places",
+            "shortName": "Pizza",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": true,
+        "stats": {
+          "tipCount": 41,
+          "usersCount": 1443,
+          "checkinsCount": 3334
+        },
+        "url": "http://www.acfp.com",
+        "hasMenu": true,
+        "delivery": {
+          "id": "2565096",
+          "url": "https://www.grubhub.com/restaurant/anthonys-coal-fired-pizza-17901-biscayne-blvd-aventura/2565096?affiliate=1131&utm_source=foursquare-affiliate-network&utm_medium=affiliate&utm_campaign=1131&utm_content=2565096",
+          "provider": {
+            "name": "grubhub",
+            "icon": {
+              "prefix": "https://fastly.4sqi.net/img/general/cap/",
+              "sizes": [
+                40,
+                50
+              ],
+              "name": "/delivery_provider_grubhub_20180129.png"
+            }
+          }
+        },
+        "menu": {
+          "type": "Menu",
+          "label": "Menu",
+          "anchor": "View Menu",
+          "url": "https://foursquare.com/v/anthonys-coal-fired-pizza/4ab2b4ddf964a520f36b20e3/menu",
+          "mobileUrl": "https://foursquare.com/v/4ab2b4ddf964a520f36b20e3/device_menu"
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "storeId": "1012",
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [
+          {
+            "id": "5569fbe9a7c8896abe7d744c"
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4ee3b659823180a98aa4b103",
+        "name": "Baja",
+        "contact": {},
+        "location": {
+          "address": "Nw 12 St",
+          "lat": 25.783114007099677,
+          "lng": -80.32672597610997,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.783114007099677,
+              "lng": -80.32672597610997
+            }
+          ],
+          "postalCode": "33126",
+          "cc": "US",
+          "country": "United States",
+          "formattedAddress": [
+            "Nw 12 St",
+            "33126",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 1,
+          "checkinsCount": 1
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "4e4e42c2bd4101d0d7a634e1",
+        "name": "Hardaway's House Of Wings",
+        "contact": {
+          "phone": "3055697737",
+          "formattedPhone": "(305) 569-7737"
+        },
+        "location": {
+          "address": "3809 Grand Ave",
+          "lat": 25.727819442749023,
+          "lng": -80.2551498413086,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.727819442749023,
+              "lng": -80.2551498413086
+            }
+          ],
+          "postalCode": "33133",
+          "cc": "US",
+          "city": "Miami",
+          "state": "FL",
+          "country": "United States",
+          "formattedAddress": [
+            "3809 Grand Ave",
+            "Miami, FL 33133",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 0,
+          "usersCount": 7,
+          "checkinsCount": 11
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      },
+      {
+        "id": "54aec316498e8c2f9d0639e5",
+        "name": "Limpy's",
+        "contact": {},
+        "location": {
+          "lat": 25.59745893469401,
+          "lng": -80.43057939020738,
+          "labeledLatLngs": [
+            {
+              "label": "display",
+              "lat": 25.59745893469401,
+              "lng": -80.43057939020738
+            }
+          ],
+          "cc": "US",
+          "state": "Florida",
+          "country": "United States",
+          "formattedAddress": [
+            "Florida",
+            "United States"
+          ]
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d14c941735",
+            "name": "Wings Joint",
+            "pluralName": "Wings Joints",
+            "shortName": "Wings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+              "suffix": ".png"
+            },
+            "primary": true
+          }
+        ],
+        "verified": false,
+        "stats": {
+          "tipCount": 2,
+          "usersCount": 8,
+          "checkinsCount": 13
+        },
+        "allowMenuUrlEdit": true,
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        },
+        "hereNow": {
+          "count": 0,
+          "summary": "Nobody here",
+          "groups": []
+        },
+        "referralId": "v-1659407777",
+        "venueChains": [],
+        "hasPerk": false
+      }
+    ],
+    "confident": false,
+    "geocode": {
+      "what": "",
+      "where": "miami",
+      "feature": {
+        "cc": "US",
+        "name": "Miami",
+        "displayName": "Miami, FL, United States",
+        "matchedName": "Miami, FL, United States",
+        "highlightedName": "<b>Miami</b>, FL, United States",
+        "woeType": 7,
+        "slug": "miami-florida",
+        "id": "geonameid:4164138",
+        "longId": "72057594042092074",
+        "geometry": {
+          "center": {
+            "lat": 25.77427,
+            "lng": -80.19366
+          },
+          "bounds": {
+            "ne": {
+              "lat": 25.855786,
+              "lng": -80.132179
+            },
+            "sw": {
+              "lat": 25.709042,
+              "lng": -80.31976
+            }
+          }
+        }
+      },
+      "parents": []
+    }
+  }
+}
